@@ -1,0 +1,29 @@
+{
+  "name": "to-kilos",
+  "version": "0.1.0",
+  "description": "A JavaScript utility function for formatting numbers in thousands (K) or millions (M)",
+  "keywords": [
+    "to",
+    "kilos",
+    "utility",
+    "format",
+    "thousands",
+    "millions"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goudla/to-kilos.git"
+  },
+  "author": "Douglas Bamber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goudla/to-kilos/issues"
+  },
+  "homepage": "https://github.com/Goudla/to-kilos#readme"
+}
